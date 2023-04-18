@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookReadingEvent1", "BookReadingEvent1\BookReadingEvent1.csproj", "{689CBA9F-5B28-46FF-94B5-54B189848F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business_Logic_Layer", "Business_Logic_Layer\Business_Logic_Layer.csproj", "{23B708AB-5241-4008-A5EB-4D2728E90CC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business_Logic_Layer", "Business_Logic_Layer\Business_Logic_Layer.csproj", "{23B708AB-5241-4008-A5EB-4D2728E90CC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Acess_Layer", "Data_Acess_Layer\Data_Acess_Layer.csproj", "{AA038FFB-7924-4BD8-8198-41C33633DD65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data_Acess_Layer", "Data_Acess_Layer\Data_Acess_Layer.csproj", "{AA038FFB-7924-4BD8-8198-41C33633DD65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
